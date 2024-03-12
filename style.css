@@ -1,0 +1,866 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+input {
+    border: none;
+}
+
+body {
+    width: 192rem;
+    background-color: #000000;
+}
+
+.home-light-z12 {
+    box-sizing: border-box;
+    padding: 5.9rem 8.455rem 5.5rem 11.2rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+}
+
+.home-light-z12 .header-s4p {
+    margin: 0rem 2.445rem 9.3rem 0rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .logo-yde {
+    margin-right: 2rem;
+    width: 3.5rem;
+    height: 4rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .Aditya-wankhede {
+    margin: 0rem 64.3rem 0.4rem 0rem;
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .home-b9E {
+    margin: 0rem 5.9rem 0.2rem 0rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .about-6rg {
+    margin: 0rem 5.9rem 0.2rem 0rem;
+    cursor: pointer;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .resume-pGt {
+    margin: 0rem 6rem 0.2rem 0rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .skills-Xwz {
+    margin: 0rem 5.5rem 0.2rem 0rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .projects-4h2 {
+    margin: 0rem 6.2rem 0.2rem 0rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .contact-PjJ {
+    margin: 0rem 7.9rem 0.2rem 0rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .header-s4p .moon-8B6 {
+    width: 4rem;
+    height: 4rem;
+    cursor: pointer;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp {
+    width: 100%;
+    height: 83.3rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn {
+    box-sizing: border-box;
+    padding: 10.8rem 27.6rem 5.5rem 0rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y {
+    margin: 34.9rem 12.1rem 0rem 0rem;
+    width: 3.6rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y .facebook-3xG {
+    margin: 0rem 0.022rem 1.52rem 0rem;
+    width: 3.3777rem;
+    height: 3.3797rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y .instagram-xpL {
+    margin: 0rem 0.022rem 1.52rem 0rem;
+    width: 3.3777rem;
+    height: 3.3797rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y .twitter-Hbi {
+    margin: 0rem 0.222rem 1.51rem 0rem;
+    width: 3.3777rem;
+    height: 3.3797rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y .github-Pek {
+    margin-bottom: 1.5102rem;
+    width: 3rem;
+    height: 3rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y .linkedin-wRN {
+    margin: 0rem 0rem 1.51rem 0rem;
+    width: 3.3777rem;
+    height: 3.3797rem;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y .telegram-Fwr {
+    margin: 0rem 0rem 1.51rem 0.1rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y .koo-bF2 {
+    margin: 0 0.3rem;
+    box-sizing: border-box;
+    padding: 0.1rem 0.5rem 0.089rem 0.5rem;
+    width: calc(100% - 0.6rem);
+    border: solid 0.2rem #000000;
+    border-radius: 1.5rem;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .socials-links-w8Y .koo-bF2 .koo-black-Wsn {
+    width: 2rem;
+    height: 2.8115rem;
+    object-fit: contain;
+    vertical-align: top;
+    border-radius: 1.2rem;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di {
+    margin-bottom: 26.1rem;
+    width: 57.1rem;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .auto-group-awk9-qBJ {
+    box-sizing: border-box;
+    padding-bottom: 0.3rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .auto-group-awk9-qBJ .hello-ZNC {
+    margin-bottom: 1rem;
+    width: 19.7rem;
+    height: 7.2rem;
+    font-size: 3.6rem;
+    font-weight: 700;
+    line-height: 1.2575;
+    color: #ffffff;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #32f6f6 0%, #a6a69f 100%);
+    border-radius: 5rem 5rem 5rem 0;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .auto-group-awk9-qBJ .aditya-wave-BPa {
+    margin-right: 23.3rem;
+    width: calc(100% - 23.3rem);
+    height: 8.5rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .auto-group-awk9-qBJ .aditya-wave-BPa .auto-group-2rbd-uKa {
+    margin-right: 1rem;
+    height: 100%;
+    font-size: 6.4rem;
+    font-weight: 700;
+    line-height: 1.2575;
+    color: #bd3ecc;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: baseline;
+    border-bottom: solid 0.5rem #000000;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .auto-group-awk9-qBJ .aditya-wave-BPa .auto-group-2rbd-uKa .auto-group-2rbd-uKa-sub-0 {
+    font-size: 6.4rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .auto-group-awk9-qBJ .aditya-wave-BPa .auto-group-2rbd-uKa .auto-group-2rbd-uKa-sub-1 {}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .auto-group-awk9-qBJ .aditya-wave-BPa .auto-group-2rbd-uKa .auto-group-2rbd-uKa-sub-2 {
+    font-size: 6.4rem;
+    font-weight: 700;
+    line-height: 1.1625;
+    color: #727272;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .auto-group-awk9-qBJ .aditya-wave-BPa .wave-bk8 {
+    margin-top: 0.3rem;
+    width: 5rem;
+    height: 5rem;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .ui-ux-designer-front-end-developer-thinker-based-in-india-ukp {
+    margin-bottom: 10.3rem;
+    max-width: 57.1rem;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .buttons-zGU {
+    margin-right: 19.6rem;
+    width: calc(100% - 19.6rem);
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    border-radius: 1rem;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .buttons-zGU .auto-group-afr9-6aQ {
+    margin: 0rem 2.5rem 0rem 0rem;
+    width: 17.5rem;
+    height: calc(100% - 0rem);
+    font-size: 2rem;
+    font-weight: 900;
+    line-height: 1.2575;
+    color: #fdfdfd;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 0.3rem #ffffff;
+    box-sizing: border-box;
+    box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.25);
+    background: linear-gradient(90deg, #df580c 0%, #fc993d 100%);
+    border-radius: 1rem;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-arqw-1Vn .auto-group-wbhy-6Di .buttons-zGU .auto-group-wpdm-GtC {
+    width: 17.5rem;
+    height: 100%;
+    font-size: 2rem;
+    font-weight: 900;
+    line-height: 1.2575;
+    color: #fdfdfd;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 0.3rem #ffffff;
+    box-sizing: border-box;
+    box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.25);
+    background: linear-gradient(90deg, #434343 0%, #000000 100%);
+    border-radius: 1rem;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-ayv3-fQY {
+    width: 71.9449rem;
+    height: 100%;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-ayv3-fQY .email-nk4 {
+    box-sizing: border-box;
+    padding: 0rem 0.599rem 0rem 0.5rem;
+    width: 2.9991rem;
+    height: 27.65rem;
+    position: absolute;
+    left: 66.2rem;
+    top: 55.65rem;
+    border-bottom: solid 0.5rem #000000;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-ayv3-fQY .email-nk4 .adityawankhede786gmailcom-4ha {
+    max-width: 1.9rem;
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-ayv3-fQY .image-Yck {
+    box-sizing: border-box;
+    padding: 6.1rem 5.9rem 7.607rem 5.9rem;
+    width: 71.9449rem;
+    height: 71.2418rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../img/hero-background.png');
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-ayv3-fQY .image-Yck .hero-image-3ZW {
+    width: 50rem;
+    height: 57.535rem;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 17rem 30rem 30rem 80rem;
+}
+
+.home-light-z12 .auto-group-mv63-fgp .auto-group-ayv3-fQY .frame-3-7ZN {
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    left: 3rem;
+    top: 68.3rem;
+    overflow: hidden;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+input {
+    border: none;
+}
+
+body {
+    width: 192rem;
+}
+
+.about-light-V96 {
+    width: 100%;
+    height: 108rem;
+    position: relative;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+.about-light-V96 .vector-1-Am2 {
+    width: 69.3531rem;
+    height: 69.3531rem;
+    position: absolute;
+    left: 0;
+    top: 6.8rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .vector-5-VHW {
+    width: 45.8776rem;
+    height: 44.6497rem;
+    position: absolute;
+    left: 127.5rem;
+    top: 62.4248rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .group-12-BRE {
+    width: 3.5rem;
+    height: 3.5rem;
+    position: absolute;
+    left: 11.3rem;
+    top: 88.9898rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .group-9-6YC {
+    width: 3.3812rem;
+    height: 3.3797rem;
+    position: absolute;
+    left: 11.3rem;
+    top: 64.9rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .group-7-B3r {
+    width: 3.3777rem;
+    height: 3.3797rem;
+    position: absolute;
+    left: 11.3rem;
+    top: 69.8rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .group-8-HMn {
+    width: 3.3777rem;
+    height: 3.3797rem;
+    position: absolute;
+    left: 11.2rem;
+    top: 74.7rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .group-10-QhJ {
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    left: 11.5rem;
+    top: 79.5898rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .group-11-8NQ {
+    width: 3.3777rem;
+    height: 3.3797rem;
+    position: absolute;
+    left: 11.3112rem;
+    top: 84.1rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .group-13-fdE {
+    box-sizing: border-box;
+    padding: 0.1rem 0.5rem 0.089rem 0.5rem;
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    left: 11.5rem;
+    top: 94rem;
+    border: solid 0.2rem #000000;
+    border-radius: 1.5rem;
+}
+
+.about-light-V96 .group-13-fdE .kooblackiconyxp27c-1-keg {
+    width: 2rem;
+    height: 2.8115rem;
+    object-fit: contain;
+    vertical-align: top;
+    border-radius: 1.2rem;
+}
+
+.about-light-V96 .adityawankhede786gmailcom-bfJ {
+    width: 1.9rem;
+    height: 22.7rem;
+    position: absolute;
+    left: 178.3rem;
+    top: 74.85rem;
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.about-light-V96 .line-2-f9N {
+    width: 2.9991rem;
+    height: 0.5rem;
+    position: absolute;
+    left: 177.8rem;
+    top: 102rem;
+    background-color: #000000;
+}
+
+.about-light-V96 .group-3-LmJ {
+    width: 4rem;
+    height: 4rem;
+    cursor: pointer;
+    position: absolute;
+    left: 176.9rem;
+    top: 5.9rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .Aditya-wankhede {
+    width: 22.9rem;
+    height: 3.2rem;
+    position: absolute;
+    left: 16.7rem;
+    top: 6.1rem;
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.about-light-V96 .about-3ZE {
+    width: 5.2rem;
+    height: 2.6rem;
+    position: absolute;
+    left: 115rem;
+    top: 6.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.about-light-V96 .frame-2-7oz {
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    left: 71.6rem;
+    top: 7.4rem;
+    overflow: hidden;
+}
+
+.about-light-V96 .home-pyJ {
+    width: 5.2rem;
+    height: 2.6rem;
+    cursor: pointer;
+    position: absolute;
+    left: 103.9rem;
+    top: 6.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.about-light-V96 .resume-VpY {
+    width: 6.9rem;
+    height: 2.6rem;
+    position: absolute;
+    left: 126.1rem;
+    top: 6.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.about-light-V96 .projects-Mrk {
+    width: 7rem;
+    height: 2.6rem;
+    position: absolute;
+    left: 149.2rem;
+    top: 6.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.about-light-V96 .skills-Dtx {
+    width: 4.7rem;
+    height: 2.6rem;
+    position: absolute;
+    left: 139rem;
+    top: 6.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.about-light-V96 .contact-uFz {
+    width: 6.8rem;
+    height: 2.6rem;
+    position: absolute;
+    left: 162.4rem;
+    top: 6.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.about-light-V96 .group-23-ABv {
+    width: 3.5rem;
+    height: 4rem;
+    position: absolute;
+    left: 11.2rem;
+    top: 5.9rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .group-25-Gkk {
+    width: 104.5rem;
+    height: 56.4rem;
+    position: absolute;
+    left: 39.3rem;
+    top: 5.9rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.about-light-V96 .group-25-Gkk .auto-group-ewo1-XRn {
+    margin: 0rem 7.115rem 3.7rem 0rem;
+    width: calc(100% - 7.1155rem);
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+}
+
+.about-light-V96 .group-25-Gkk .auto-group-ewo1-XRn .this-is-it--bwS {
+    margin-right: 9.1248rem;
+    font-size: 3.6rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: baseline;
+    flex-shrink: 0;
+}
+
+.about-light-V96 .group-25-Gkk .auto-group-ewo1-XRn .this-is-it--bwS .this-is-it--bwS-sub-0 {
+    font-size: 6.4rem;
+    font-weight: 600;
+    line-height: 1.1625;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.about-light-V96 .group-25-Gkk .auto-group-ewo1-XRn .this-is-it--bwS .this-is-it--bwS-sub-1 {}
+
+.about-light-V96 .group-25-Gkk .auto-group-ewo1-XRn .line-6-PVv {
+    margin-bottom: 0.6rem;
+    width: 69.7597rem;
+    height: 0;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx {
+    margin-bottom: 12.5rem;
+    max-width: 104.5rem;
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+    flex-shrink: 0;
+}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-0 {}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-1 {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.1625;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-2 {}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-3 {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.1625;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-4 {}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-5 {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.1625;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-6 {}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-7 {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.1625;
+    color: #000000;
+    font-family: Segoe UI, 'Source Sans Pro';
+}
+
+.about-light-V96 .group-25-Gkk .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx .aditya-wankhede-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-4rx-sub-8 {}
+
+.about-light-V96 .group-25-Gkk .line-7-CDi {
+    margin-right: 6.5574rem;
+    width: 34.8798rem;
+    height: 0;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.about-light-V96 .rectangle-64C {
+    width: 58.4789rem;
+    height: 80.3465rem;
+    position: absolute;
+    left: 0;
+    top: 10.0014rem;
+    object-fit: cover;
+    vertical-align: top;
+}
+
+.about-light-V96 .vector-3-Qqa {
+    width: 114.3rem;
+    height: 104.7883rem;
+    position: absolute;
+    left: 145.075rem;
+    top: 0;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.about-light-V96 .vector-4-YRz {
+    width: 33.8099rem;
+    height: 33.8099rem;
+    position: absolute;
+    left: 30.7644rem;
+    top: 67.5rem;
+    object-fit: contain;
+    vertical-align: top;
+}
